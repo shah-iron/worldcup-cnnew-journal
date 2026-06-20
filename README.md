@@ -1,2 +1,14 @@
 # worldcup-cnnew-journal
-HTML page archive and documentation
+
+静态页面发布集合
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
